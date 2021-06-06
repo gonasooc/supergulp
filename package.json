@@ -1,0 +1,28 @@
+{
+  "name": "supergulp",
+  "version": "1.0.0",
+  "description": "for gulp study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp dev",
+    "bulid": "gulp bulid"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonasooc/supergulp.git"
+  },
+  "author": "gonasooc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonasooc/supergulp/issues"
+  },
+  "homepage": "https://github.com/gonasooc/supergulp#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.4",
+    "@babel/register": "^7.13.16",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^4.0.1"
+  }
+}
